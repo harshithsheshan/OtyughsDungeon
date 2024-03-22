@@ -1,5 +1,5 @@
-#README #
-###Overview
+# README 
+### Overview
 The Project revolves around a game similar to pacman. Objective is to move the player around the maze collecting 
 treasure on the way and reaching a destination. A dungeon is made up of nodes which are connected to each other by
 edges. There always exists at least one path between any two Nodes chosen in the dungeon. The Game now has a Graphical 
